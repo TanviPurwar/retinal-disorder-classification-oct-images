@@ -1,6 +1,7 @@
 # Retinal Disease Classification using Vision Transformer
 
 Created for Major Project in Bachelors
+
 A deep learning model built with a Vision Transformer (ViT) architecture to classify retinal OCT images into three disease categories and normal retinas.
 
 ## 🧠 Overview
